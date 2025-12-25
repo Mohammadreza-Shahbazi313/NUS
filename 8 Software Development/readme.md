@@ -16,7 +16,7 @@ Compact 18-page briefs mapping required skills, tools, and portfolio project ide
 1. **View** – Open either PDF from the `/nus/` folder.  
 ---
 
-## 📝 Suggested GitHub Description
+## Description
 18-page bilingual briefs (EN/FA): concise skills, roadmaps, and portfolio ideas for eight software development tracks.
 
 ---
