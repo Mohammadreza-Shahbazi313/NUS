@@ -1,4 +1,4 @@
-# Skills Matrix & Tooling — 18-Page Briefs (EN & FA)
+# Skills Matrix & Tooling — 18 Page Briefs (EN & FA)
 
 Compact 18-page briefs mapping required skills, tools, and portfolio project ideas across **eight software development tracks**. Designed for students and early-career developers choosing a direction or building a portfolio.
 
